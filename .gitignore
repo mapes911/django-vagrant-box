@@ -1,0 +1,4 @@
+.vagrant
+puppet/manifests/build/
+*.DS_Store
+code/
